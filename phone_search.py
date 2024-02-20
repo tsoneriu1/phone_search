@@ -1,6 +1,6 @@
 PHONE_REGEX = r"(\d{3}[-\s]?\d{3}[-\s]?\d{4})"  
 
-with open("file.txt", "r") as file:
+with open("test.txt", "r") as file:
     for line in file:
       matches = re.findall(PHONE_REGEX, line)
         for match in matches:
