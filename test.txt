@@ -1,0 +1,11 @@
+- Valid US phone number: (555) 555-5555
+- Chicago: (312) 555-1212
+- New York: (212) 555-5555
+- Los Angeles: (323) 555-9876
+- Invalid format: 1234567890 
+* 555-123-4567 (home)
+* 123-456-7890 (work)
+- Another valid US number: 1-800-MY-HELP (toll-free)
+- International number: +44 20 7946 0550 (UK)
+- Fake number: 0123-456789 (not a real area code)
+- Another valid US number with extension: 415-555-1212 ext. 345
